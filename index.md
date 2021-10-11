@@ -1,4 +1,4 @@
-## ✅ (complete), ⭕️ (incomplete)
+### ✅ (complete), ⭕️ (incomplete)
 ---------------------------------------
 ## **Search**
 - ⭕️ Cloud function to sync db entries with search indexing
