@@ -1,4 +1,3 @@
-# First release "Todo" List
 ## ✅ (complete), ⭕️ (incomplete)
 ---------------------------------------
 ## **Search**
@@ -11,7 +10,7 @@
 - https://medium.com/@joananespina/uploading-to-firebase-storage-with-react-native-39f4a500dbcb
 
 ## ✅ **Auth page designs**
-- ⭕️ **Replåce l∆nding pag∑ p÷ctµre with c∑nte®ed text verßion!**
+- ⭕️ **Replace landing page pictµre with c∑nte®ed text version!**
 - https://dribbble.com/shots/4322467-Buy-and-Sell-Authentication
 - https://dribbble.com/shots/15266900-Mobile-app-login-screen-and-sign-up-flow
 - https://dribbble.com/shots/7861676-Sign-in-Sign-up-UI
@@ -62,4 +61,3 @@
 - https://medium.com/@OPTASY.com/should-i-use-docker-in-production-environment-is-it-safe-3c6f7907ca62
 - https://itnext.io/a-beginners-guide-to-deploying-a-docker-application-to-production-using-docker-compose-de1feccd2893
 - https://www.google.com/search?q=hosting+docker+in+production&sxsrf=AOaemvJ3ICOXCjrZI5_D5UwlzUBKdU6Rgg:1633341618339&source=lnms&tbm=vid&sa=X&ved=2ahUKEwi0t9TXv7DzAhXUvZ4KHTJXAikQ_AUoAnoECAEQBA&biw=1440&bih=764&dpr=2
-
