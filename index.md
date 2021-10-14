@@ -9,14 +9,6 @@
 - ✅ Upload jpg blob/file instead
 - https://medium.com/@joananespina/uploading-to-firebase-storage-with-react-native-39f4a500dbcb
 
-## ✅ **Auth page designs**
-- ⭕️ **Replace landing page pictµre with c∑nte®ed text version!**
-- https://dribbble.com/shots/4322467-Buy-and-Sell-Authentication
-- https://dribbble.com/shots/15266900-Mobile-app-login-screen-and-sign-up-flow
-- https://dribbble.com/shots/7861676-Sign-in-Sign-up-UI
-- https://dribbble.com/shots/8681133-Fashiony-Log-in-Sign-up
-- https://dribbble.com/shots/10681505-Log-In-Sign-Up-Daily-UI
-
 ## **Stripe Checkout**
 - ✅ Set up stripe connect account
 - ⭕️ Set up server (express/fastify) to handle checkout and stripe requests
@@ -24,12 +16,26 @@
 - ⭕️ Switch from test keys to prod keys before publish
 - https://www.youtube.com/watch?v=SH2bi-1MUNM
 
+## **Wine Likes/Saves**
+- ⭕️ Tables
+- ⭕️ Mutations/Queries
+- ⭕️ UI (component)
+
 ## **User items**
 - ✅ Reviews card designs
-- ⭕️ Replies 
-- ⭕️ Likes/upvotes 
-- ⭕️ Editing/updating reviews  
+- 🌙 *Replies* 
+- 🌙 *Likes/upvotes* 
+- ✅ Editing/updating reviews 
+- ⭕️ Edit/delete UI 
 - ✅ Deleting reviews
+
+## ✅ **Auth page designs**
+- ⭕️ **Replace landing page pictµre with c∑nte®ed text version!**
+- https://dribbble.com/shots/4322467-Buy-and-Sell-Authentication
+- https://dribbble.com/shots/15266900-Mobile-app-login-screen-and-sign-up-flow
+- https://dribbble.com/shots/7861676-Sign-in-Sign-up-UI
+- https://dribbble.com/shots/8681133-Fashiony-Log-in-Sign-up
+- https://dribbble.com/shots/10681505-Log-In-Sign-Up-Daily-UI
 
 ## ✅ **Other ppls profile designs**
 - https://dribbble.com/shots/16367037-User-Profile-Concept
